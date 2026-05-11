@@ -1,6 +1,7 @@
 streamlit
+groq
+pdfplumber
+python-dotenv
+pandas
 langchain
 langchain-groq
-python-dotenv
-fpdf2
-pypdf
